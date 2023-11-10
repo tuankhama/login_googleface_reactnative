@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "45155292444",
+    "project_id": "login-ccf61",
+    "storage_bucket": "login-ccf61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45155292444:android:a4f6c5b9396a04a807d6d9",
+        "android_client_info": {
+          "package_name": "com.logingoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45155292444-bjhn1llmk10vub4fbgdul8ggmg8a55hl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.logingoogle",
+            "certificate_hash": "3357268f328e1da688ffeda2867665b8ff4c2946"
+          }
+        },
+        {
+          "client_id": "45155292444-g9ugi3mbsk6qhd9e9s1falr6pku6j3ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ2k_CQlTcsldHZgB2R6YeMMYuNZn_X7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45155292444-1v4kco866f5u6mgj1l58lt91qbvuo0gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
